@@ -1,0 +1,8 @@
+chromadb
+langchain
+chainlit
+python-docx
+azure-identity
+pypdf
+openai
+llama-index
